@@ -1,4 +1,4 @@
-## EIB [Complaints mechanism](http://www.eib.org/about/accountability/complaints/)
+## EIB [Complaints Mechanism](http://www.eib.org/about/accountability/complaints/)
 
 EIB [rules governing complaints](http://www.eib.org/infocentre/publications/all/complaints-mechanism-policy.htm) are set out in three key documents:
 
